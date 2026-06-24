@@ -1,5 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=Fala%20meu%20amigo!%20👋%0ABem%20vindo%20ao%20GitHub%20do%20Tavin&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=180&section=header&animation=fadeIn"/>
 
+<h1 align="center">Fala meu amigo! Bem vindo ao Git Hub do Tavin👋</h1>
 <h3 align="center">💻Estudante de TI</h3>
 
 <p align="center">
