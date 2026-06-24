@@ -13,12 +13,6 @@
   <a href="https://instagram.com/seu-user"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight"/>
-</p>
-
 🛠️ Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,java"/>
