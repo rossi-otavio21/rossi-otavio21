@@ -20,5 +20,5 @@
 
 🔧 Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,git"/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git"/>
 </p>
