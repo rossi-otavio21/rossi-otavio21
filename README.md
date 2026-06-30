@@ -30,5 +30,5 @@
 ## 🔧 Ferramentas
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=idea,vscode,git,discord" />
+ <img src="https://skillicons.dev/icons?i=idea,vscode,git,discord,spotify" />
 </p>
