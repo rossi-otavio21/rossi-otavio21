@@ -30,5 +30,5 @@
 ## 🔧 Ferramentas
 
 <p align="center">
-  <img src="https:///icons?i=idea,vscode,git"/>
+  <img src="https:///icons?i=idea,vscode,gite"/>
 </p>
